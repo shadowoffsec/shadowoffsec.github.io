@@ -1896,5 +1896,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 .download-button {
-  margin-top: 20px; /* Ajuste conforme necessário */
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
